@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+p {
+    padding: 10px;
+    
+}
+
+p:hover {
+    background-color: #4CAF50; 
+}
+
+p:hover::first-letter {
+    font-size: 2em; 
+    font-weight: bold;
+    color: #fff; 
+}

@@ -1,0 +1,14 @@
+h1{
+    color: violet;
+}
+nav{
+    background-image: url(../images/Capture.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    background-image: url(../images/Capture.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}

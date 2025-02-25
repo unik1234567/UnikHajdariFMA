@@ -1,0 +1,22 @@
+p::first-letter {
+    font-size: 5em;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+    
+    
+}
+p{
+    font-style: italic;
+    font-weight: bold;
+}
+body{
+    background-color: grey;
+}
+#p2::first-letter{
+    font-size: 5em;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: underline red;
+}
