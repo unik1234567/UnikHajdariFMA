@@ -1,0 +1,50 @@
+.William{
+    background-color: rgb(84, 81, 81);
+    color: white;
+    height: 25vh;
+
+    
+}
+.line1{
+    width: 33%;
+    border: solid red ;
+}
+.Eyodur{
+    background-color:beige;
+    color: black;
+    height: 25vh;
+
+    
+}
+.line2{
+    width: 33%;
+    border: solid red ;
+}
+.Elliot{
+    background-color: rgb(84, 81, 81);
+    color: white;
+    height: 25vh;
+
+    
+}
+.line3{
+    width: 33%;
+    border: solid red ;
+}
+.Kendrick{
+    background-color:beige;
+    color: black;
+    height: 25vh;
+
+    
+}
+.line4{
+    width: 33%;
+    border: solid red ;
+}
+
+
+
+body{
+    margin: 0;
+}

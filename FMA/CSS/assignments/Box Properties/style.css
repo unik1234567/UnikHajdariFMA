@@ -1,0 +1,18 @@
+p{
+    background-color: antiquewhite;
+    font-size: 20px;
+    border-style: solid;
+padding: 20px;
+height: 300px;
+
+
+}
+img{
+    
+    padding: 10px;
+    float: left;
+}
+img:hover{
+    border-style:  dashed;
+    border-color: red;
+}
